@@ -1,3 +1,5 @@
+/*Enter a string:shahista
+Length: 8 */
 import java.util.Scanner;
 
 public class StringLength {
@@ -11,7 +13,5 @@ public class StringLength {
         }
         System.out.println("Length: "+length);
         
-
-
     }
 }
