@@ -1,3 +1,6 @@
+/*OUTPUT:
+ Enter a string:shahista
+Reversed words:atsihahs */
 import java.util.Scanner;
 
 public class CountWordsReverse {

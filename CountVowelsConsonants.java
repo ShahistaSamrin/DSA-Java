@@ -1,3 +1,7 @@
+/*OUTPUT:
+Enter a string: shahista
+Number of vowels: 3
+Number of consonants: 5 */
 import java.util.Scanner;
 
 public class CountVowelsConsonants{
